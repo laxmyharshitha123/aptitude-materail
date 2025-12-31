@@ -1,1 +1,1 @@
-# aptitude-materail
+# aptitude-material
